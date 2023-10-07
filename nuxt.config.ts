@@ -8,4 +8,8 @@ export default defineNuxtConfig({
     '@pinia-plugin-persistedstate/nuxt',
   ],
 
+  tailwindcss: {
+    cssPath: '~/assets/css/tailwind.css',
+  }
+
 })

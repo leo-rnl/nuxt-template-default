@@ -1,0 +1,16 @@
+/*ù@font-face {*/
+/*    font-family: 'Gabarito';*/
+/*    !*noinspection CssUnknownTarget*!*/
+/*    src: url('/fonts/Gabarito-VariableFont_wght.ttf');*/
+/*}*/
+
+/*@layer base {*/
+/*    html {*/
+/*        font-family: "Gabarito", system-ui, sans-serif;*/
+/*    }*/
+/*}*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
